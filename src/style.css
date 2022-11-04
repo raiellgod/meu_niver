@@ -99,11 +99,11 @@ a {
 @media (max-width: 600px) {
 
     section {
-        padding-left: 5vh;
+        padding-left: 10vh;
     }
 
     .convite p {
-        font-size: 1em; 
+        font-size: 1.5em; 
         color: #9d864c;
         width: 200px;
         font-family: var(--fonte4);  
@@ -114,7 +114,7 @@ a {
     }
 
     .churrasco p {
-        font-size: 1em;
+        font-size: 1.5em;
         background-color: rgba(0, 0, 0, 0.508);
         color: white;
         width: 200px;
@@ -133,7 +133,7 @@ a {
     }
 
     .endereco p {
-        font-size: 1em;
+        font-size: 1.5em;
         width: 200px;
         font-family: var(--fonte3);
     }
