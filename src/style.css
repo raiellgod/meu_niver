@@ -31,7 +31,7 @@ section {
     display: flex;
     height: 50vh;
     background-image: linear-gradient(160deg, #48231A 70%, #714135 20%, #7e483b 10%);
-    justify-content: space-around;
+    justify-content: space-between;
 }
 
 
@@ -99,7 +99,7 @@ a {
 @media (max-width: 600px) {
 
     section {
-        padding-left: 20vh;
+        padding-left: 15vh;
     }
 
     .convite p {
