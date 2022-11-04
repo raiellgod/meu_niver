@@ -122,6 +122,11 @@ a {
         border-radius: 15px;
     }
 
+    section.churrasco img {
+        width: 20px;
+        height: 20px;
+    }
+
     .endereco {
         display: block;
     }
@@ -130,6 +135,11 @@ a {
         width: 150px;
         height: 150px;
         padding-top: 40px;
+    }
+
+    .endereco img {
+        width: 40px;
+        height: 40px;
     }
 
     .endereco p {
